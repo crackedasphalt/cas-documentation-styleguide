@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "asphalt" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cracked Asphalt"
+title                    : "CAS-Documentation-Styleguide"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Cracked Asphalt Studio"
-description              : "Simple and functional outdoor gear. Make it yourself guides and tutorials."
+name                     : "Cracked Asphalt"
+description              : "Documentation for Cracked Asphalt website based on Minimal Mistakes."
 url                      : "https://www.crackedasphalt.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "crackedasphalt/crackedasphalt.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/cas-documentation-styleguide/" #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+repository               : "crackedasphalt/cas-docs-styleguide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/cracked-asphalt-studio-mtn-txt-col-900x145.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
@@ -81,9 +81,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "cracked_asphalt"
+  username               : 
 facebook:
-  username               : &facebook "crackedasphalt"
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/cracked-asphalt-studio-cir-blk-1000x1000.png" # Open Graph/Twitter default site image
@@ -91,12 +91,10 @@ og_image                 : "/assets/images/cracked-asphalt-studio-cir-blk-1000x1
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Organization" # Person or Organization (defaults to Person)
-  name                   : "Cracked Asphalt Studio" # If the user or organization name differs from the site's name
+  name                   : "CAS-Docs-Styleguide" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 #    - "https://twitter.com/cracked_asphalt"
 #    - "https://www.facebook.com/crackedasphalt"
-    - "https://instagram.com/crackedasphaltstudio"
-    - "https://www.reddit.com/user/crackedasphalt"
 
 # Analytics
 analytics:
@@ -302,7 +300,7 @@ defaults:
   - scope:
       path: "_pages"
     values:
-      search: true
+      search: false
   # _posts
   - scope:
       path: ""
@@ -328,32 +326,36 @@ defaults:
       layout: single
       author_profile: false
       header:
-        show_overlay_excerpt: true
+        show_overlay_excerpt: false
         overlay_color: "#546375" #"#5e616c"
         overlay_filter: .5
-        overlay_image: /assets/images/home/home-page-overlay.jpg
-        og_image: /assets/images/home/home-page-overlay-og.jpg
-      sitemap: true
+      sitemap: false
       author_profile: false # false, true - Displays author profile on page left
       author: # Author name - Overrides the default site author.
-  # patterns
+  # styleguide
   - scope:
       path: ""
-      type: patterns
+      type: styleguide
     values:
       layout: single
-      classes: 
-        - wide
-        - no-sidebar
+      author_profile: false
+      share: false
+      hidden: false
+      sitemap: false
+      search: false
+      header:
+        show_overlay_excerpt: false
+        overlay_color: "#546375" #"#5e616c"
+        overlay_filter: .5
 
 # Form settings for Email signup form
 
 ## Convertkit
 signup-form:
-  show_form: true 
-  description: Subscribe to be first to learn about new guides, patterns, and upcoming releases.
-  thanks_message: Please check your email to confirm your subscription to our updates.
-  confirmed_message: You're awesome.
+  show_form: false 
+  description: #Subscribe to be first to learn about new guides, patterns, and upcoming releases.
+  thanks_message: #Please check your email to confirm your subscription to our updates.
+  confirmed_message: #You're awesome.
 
 collections:
 #  collection-example-1: # Change this value to match the name of collection
@@ -362,6 +364,6 @@ collections:
 #  collection-example-2: # Change this value to match the name of collection
 #    output: true
 #    permalink: /:collection/:path/
-  patterns:
+  styleguide: # Change this value to match the name of collection
     output: true
     permalink: /:collection/:path/
