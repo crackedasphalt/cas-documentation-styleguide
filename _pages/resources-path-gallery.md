@@ -1,5 +1,6 @@
 ---
 title: "Demo Gallery Using Path Gallery"
+permalink: /resources-path-gallery/
 tags: 
   - sample post
   - readability

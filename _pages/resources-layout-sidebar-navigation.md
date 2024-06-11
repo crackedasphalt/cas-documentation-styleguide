@@ -1,6 +1,7 @@
 ---
 title: "Layout: Sidebar with Navigation List"
 excerpt: "A page with a sidebar navigation list."
+permalink: /resources-layout-sidebar-navigation/
 author_profile: false
 sidebar:
   title: "Sample Title"

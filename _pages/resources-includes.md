@@ -1,6 +1,7 @@
 ---
 title: "Includes Examples"
 excerpt: A variety of common includes and their YAML Front Matter.
+permalink: /resources-includes/
 classes: no-sidebar
 toc: true
 toc_sticky: true
@@ -204,4 +205,4 @@ Example:
 
 {% include feature_row id="intro" type="center" %}
 
-[resources-gallery]: {{ "" | relative_url }}{% link _styleguide/resources-gallery.md %}
+[resources-gallery]: {{ "" | relative_url }}{% link _pages/resources-gallery.md %}

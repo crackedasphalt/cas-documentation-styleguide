@@ -1,5 +1,6 @@
 ---
 title: "Common Markup"
+permalink: /resources-markup/
 toc: true
 excerpt: A variety of common markup.
 toc_icon: "heart"

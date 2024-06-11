@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 excerpt: All YAML Front Matter Tags
 hidden: false
-permalink:
+permalink: /resources-front-matter/
 header:
   image: /assets/images/home/home-page-feature.jpg
   overlay_image: /assets/images/home/home-page-feature.jpg
@@ -205,5 +205,5 @@ entries_layout: # list (default), grid -  - Use on layouts category, tag, catego
 ```
 
 
-[resources-includes]: {{ "" | relative_url }}{% link _styleguide/resources-includes.md %}
-[resources-gallery]: {{ "" | relative_url }}{% link _styleguide/resources-gallery.md %}
+[resources-includes]: {{ "" | relative_url }}{% link _pages/resources-includes.md %}
+[resources-gallery]: {{ "" | relative_url }}{% link _pages/resources-gallery.md %}

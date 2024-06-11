@@ -1,5 +1,6 @@
 ---
 title: "Template: Header Video"
+permalink: /template-header-video/
 header:
   video:
     id: -PVofD2A9t8

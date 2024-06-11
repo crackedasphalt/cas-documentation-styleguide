@@ -2,6 +2,7 @@
 title: "Embedded Content"
 toc: true
 excerpt: Examples of embedded content. 
+permalink: /resources-embedded-content/
 ---
 
 ## Image

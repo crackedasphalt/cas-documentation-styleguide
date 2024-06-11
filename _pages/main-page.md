@@ -21,10 +21,10 @@ permalink: /jump/
 | [Page Template][template-page] | Template for a page. |
 | [Splash Page Template][template-splash-page] | Template for a page. |
 
-[template-post]: {% link _styleguide/template-post.md %}
-[template-post-gallery]: {% link _styleguide/template-post-gallery.md %}
-[template-page]: {% link _styleguide/template-page.md %}
-[template-splash-page]: {% link _styleguide/template-splash-page.md %}
+[template-post]: {% link _pages/template-post.md %}
+[template-post-gallery]: {% link _pages/template-post-gallery.md %}
+[template-page]: {% link _pages/template-page.md %}
+[template-splash-page]: {% link _pages/template-splash-page.md %}
 
 
 ## Resources
@@ -45,14 +45,14 @@ permalink: /jump/
 
 
 
-[resources-front-matter]: {% link _styleguide/resources-front-matter.md %}
-[resources-markup]: {% link _styleguide/resources-markup.md %}
-[resources-embedded-content]: {% link _styleguide/resources-embedded-content.md %}
-[resources-gallery]: {% link _styleguide/resources-gallery.md %}
-[resources-path-gallery]: {% link _styleguide/resources-path-gallery.md %}
-[resources-includes]: {% link _styleguide/resources-includes.md %}
-[resources-helpers]: {% link _styleguide/resources-helpers.md %}
-[resources-layout-sidebar-navigation]: {% link _styleguide/resources-layout-sidebar-navigation.md %}
-[resources-layout-table-of-contents]: {% link _styleguide/resources-layout-table-of-contents.md %}
-[resources-post-with-images]: {% link _styleguide/resources-post-with-images.md %}
-[resources-markup-syntax-highlighting]: {% link _styleguide/resources-markup-syntax-highlighting.md %}
+[resources-front-matter]: {% link _pages/resources-front-matter.md %}
+[resources-markup]: {% link _pages/resources-markup.md %}
+[resources-embedded-content]: {% link _pages/resources-embedded-content.md %}
+[resources-gallery]: {% link _pages/resources-gallery.md %}
+[resources-path-gallery]: {% link _pages/resources-path-gallery.md %}
+[resources-includes]: {% link _pages/resources-includes.md %}
+[resources-helpers]: {% link _pages/resources-helpers.md %}
+[resources-layout-sidebar-navigation]: {% link _pages/resources-layout-sidebar-navigation.md %}
+[resources-layout-table-of-contents]: {% link _pages/resources-layout-table-of-contents.md %}
+[resources-post-with-images]: {% link _pages/resources-post-with-images.md %}
+[resources-markup-syntax-highlighting]: {% link _pages/resources-markup-syntax-highlighting.md %}

@@ -1,6 +1,7 @@
 ---
 title: "Gallery Examples"
 excerpt: A variety of common gallery configurations.
+permalink: /resources-gallery/
 gallery:
   - url: /assets/images/styleguide/unsplash-gallery-image-1.jpg
     image_path: /assets/images/styleguide/unsplash-gallery-image-1-th.jpg

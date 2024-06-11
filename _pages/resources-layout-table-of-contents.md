@@ -1,5 +1,6 @@
 ---
 title: "Layout: Table of Contents"
+permalink: /resources-layout-table-of-contents/
 toc: true
 excerpt: A page with table of contents.
 ---

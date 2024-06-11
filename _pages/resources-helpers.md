@@ -1,6 +1,7 @@
 ---
 title: "Helpers"
 excerpt: "Jekyll `_includes` and other helpers to use as shortcuts for creating archives, galleries, table of contents, and more."
+permalink: /resources-helpers/
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
@@ -116,7 +117,7 @@ And then drop-in the gallery include in the body where you'd like it to appear.
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-**More Gallery Goodness:** A few more examples can be seen in [this sample gallery post]({{ "" | relative_url }}{% link _styleguide/resources-gallery.md %}).
+**More Gallery Goodness:** A few more examples can be seen in [this sample gallery post]({{ "" | relative_url }}{% link _pages/resources-gallery.md %}).
 {: .notice--info}
 
 ## Feature row
