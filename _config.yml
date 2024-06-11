@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Cracked Asphalt"
 description              : "Documentation for Cracked Asphalt website based on Minimal Mistakes."
 url                      : "https://www.crackedasphalt.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cas-documentation-styleguide/" #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cas-documentation-styleguide" #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "crackedasphalt/cas-docs-styleguide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/cracked-asphalt-studio-mtn-txt-col-900x145.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
