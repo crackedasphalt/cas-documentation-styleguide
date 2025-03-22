@@ -70,6 +70,7 @@ header: # Enable header
   teaser: # /path/to/image.jpg - Teasers appear on archive pages and related posts
   og_image: # Optional OpenGraph override image.
   show_overlay_excerpt: # true (default), false - Toggles display of page excerpt in page hero
+  hide_title: # false (default), true - Hides display of page title in header
 ```
 
 ### Galleries
