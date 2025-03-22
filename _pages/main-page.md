@@ -17,42 +17,23 @@ permalink: /jump/
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | [Post Template](/cas-documentation-styleguide/template-post/) | Template for posts. |
-| [Gallery Template][template-post-gallery] | Template for posts with gallery. |
-| [Page Template][template-page] | Template for a page. |
-| [Splash Page Template][template-splash-page] | Template for a page. |
-
-[template-post]: {% link _pages/template-post.md %}
-[template-post-gallery]: {% link _pages/template-post-gallery.md %}
-[template-page]: {% link _pages/template-page.md %}
-[template-splash-page]: {% link _pages/template-splash-page.md %}
+| [Gallery Template](/cas-documentation-styleguide/template-post-gallery/) | Template for posts with gallery. |
+| [Page Template](/cas-documentation-styleguide/template-page/) | Template for a page. |
+| [Splash Page Template](/cas-documentation-styleguide/template-splash-page/) | Template for a page. |
 
 
 ## Resources
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [YAML Front Matter][resources-front-matter] | All YAML front matter tags. |
-| [HTML Markup][resources-markup] | A variety of common markup showing how the theme styles them. |
-| [Embedded Content][resources-embedded-content] | Tags for embedding content. |
-| [Galleries][resources-gallery] | A post showing several images wrapped in `<figure>` elements. |
-| [Path Galleries][resources-path-gallery] | A post showing several images wrapped in `<figure>` elements. |
-| [Includable Content][resources-includes] | Example includes and their usage. |
-| [Helpers][resources-helpers] | Additional features and their usage. |
-| [Sidebar Navigation][resources-layout-sidebar-navigation] | A page showing sidebar navigation. |
-| [Table of Contents][resources-layout-table-of-contents] | A demonstrating table of contents. |
-| [Post with Images][resources-post-with-images] | Examples and code for displaying images in posts. |
-| [Syntax Highlighting][resources-markup-syntax-highlighting] | Examples showing highlighted code. |
-
-
-
-[resources-front-matter]: {% link _pages/resources-front-matter.md %}
-[resources-markup]: {% link _pages/resources-markup.md %}
-[resources-embedded-content]: {% link _pages/resources-embedded-content.md %}
-[resources-gallery]: {% link _pages/resources-gallery.md %}
-[resources-path-gallery]: {% link _pages/resources-path-gallery.md %}
-[resources-includes]: {% link _pages/resources-includes.md %}
-[resources-helpers]: {% link _pages/resources-helpers.md %}
-[resources-layout-sidebar-navigation]: {% link _pages/resources-layout-sidebar-navigation.md %}
-[resources-layout-table-of-contents]: {% link _pages/resources-layout-table-of-contents.md %}
-[resources-post-with-images]: {% link _pages/resources-post-with-images.md %}
-[resources-markup-syntax-highlighting]: {% link _pages/resources-markup-syntax-highlighting.md %}
+| [YAML Front Matter](/cas-documentation-styleguide/resources-front-matter/) | All YAML front matter tags. |
+| [HTML Markup](/cas-documentation-styleguide/resources-markup/) | A variety of common markup showing how the theme styles them. |
+| [Embedded Content](/cas-documentation-styleguide/resources-embedded-content/) | Tags for embedding content. |
+| [Galleries](/cas-documentation-styleguide/resources-gallery/) | A post showing several images wrapped in `<figure>` elements. |
+| [Path Galleries](/cas-documentation-styleguide/resources-path-gallery/) | A post showing several images wrapped in `<figure>` elements. |
+| [Includable Content](/cas-documentation-styleguide/resources-includes/) | Example includes and their usage. |
+| [Helpers](/cas-documentation-styleguide/resources-helpers/) | Additional features and their usage. |
+| [Sidebar Navigation](/cas-documentation-styleguide/resources-layout-sidebar-navigation/) | A page showing sidebar navigation. |
+| [Table of Contents](/cas-documentation-styleguide/resources-layout-table-of-contents/) | A demonstrating table of contents. |
+| [Post with Images](/cas-documentation-styleguide/resources-post-with-images/) | Examples and code for displaying images in posts. |
+| [Syntax Highlighting](/cas-documentation-styleguide/resources-markup-syntax-highlighting/) | Examples showing highlighted code. |
