@@ -16,7 +16,7 @@ permalink: /jump/
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Post Template][template-post] | Template for posts. |
+| [Post Template](/cas-documentation-styleguide/template-post/) | Template for posts. |
 | [Gallery Template][template-post-gallery] | Template for posts with gallery. |
 | [Page Template][template-page] | Template for a page. |
 | [Splash Page Template][template-splash-page] | Template for a page. |
